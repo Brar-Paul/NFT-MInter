@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11595519e8b1860EA4dA0987c1759C50AF60E8E2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x11595519e8b1860ea4da0987c1759c50af60e8e2",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Eyeballz",
+  "SYMBOL": "EB",
+  "MAX_SUPPLY": 15,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eyeballz",
+  "SHOW_BACKGROUND": true
+}
